@@ -18,6 +18,7 @@ Desenvolvimento de Sistema
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHMSforne&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHMSforne&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHMSforne&layout=compact=tokyonight)
 
 
 
