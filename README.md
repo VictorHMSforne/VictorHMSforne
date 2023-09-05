@@ -6,6 +6,7 @@ Desenvolvimento de Sistema
   C#;
   C ;
   Python;
+  Java;
 - 🕹 Aprendendo também sobre o Arduino
 - <div style="display: inline_block"><br>
   
@@ -13,6 +14,8 @@ Desenvolvimento de Sistema
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
            
           
   
