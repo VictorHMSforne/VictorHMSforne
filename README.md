@@ -1,7 +1,7 @@
 Oláá!!!!Muito Prazer, sou o Victor
 
 - 🥽 Atualmente estou estudando no Senai, cursando Técnico em
-Desenvolvimento de Sistema
+Análise e Desenvolvimento de Sistemas
 - 🤔 Estou aprendendo as linguagens:
   C#;
   C ;
