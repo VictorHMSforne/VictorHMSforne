@@ -16,7 +16,7 @@
 
 
 ## 💻 HardSkills
-- Linguagens de Programação:
+- **Linguagens de Programação**:
 
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,26 +24,26 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- Lignaugens de Marcação e Estilo:
+- **Lignaugens de Marcação e Estilo**:
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Bibliotecas e FrameWorks:
+- **Bibliotecas e FrameWorks**:
 
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-blue?style=for-the-badge&logo=xamarin&logoColor=3498db)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-- BD:
+- **BD**:
 
 ![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=White)
 ![MicrosoftSQLServer](https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-- Ferramentas:
+- **Ferramentas**:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -69,6 +69,7 @@
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=49afdf)](https://discord.com/channels/@cleitinsfor_a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=49afdf)](https://www.instagram.com/victormsforne/)
 [![Twitch](https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=Twitch&logoColor=49afdf)](https://www.twitch.tv/CleitinSfor_A)
+[![Steam](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=49afdf)](https://steamcommunity.com/profiles/76561198935163851/)
 
 
 ## 📊 GitHub Stats
