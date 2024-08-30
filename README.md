@@ -1,6 +1,8 @@
 # Olá, Seja Bem-Vindo 👋!!! Sou o Victor
+<a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFkdGk5cTBqbGFrbjJkcGVhMm1qdWh4Mm5nYm10NWY0N2luNG0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3u7w8BR07IHDsnzQw/giphy.webp">
+    <img align="right" alt="Créditos: WWE. Tirado do Site Giphy" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFkdGk5cTBqbGFrbjJkcGVhMm1qdWh4Mm5nYm10NWY0N2luNG0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3u7w8BR07IHDsnzQw/giphy.webp">
+</a>
 
-<img align="right" alt="Créditos: WWE. Tirado do Site Giphy" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFkdGk5cTBqbGFrbjJkcGVhMm1qdWh4Mm5nYm10NWY0N2luNG0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3u7w8BR07IHDsnzQw/giphy.webp">
 <p align="justify">
     Recentemente me formei como Técnico em Desenvolvimento de Sistemas pelo SENAI 🥽. <br/>
   No momento estou participando de uma competição chamada: <strong>WorldSkills</strong> e estou na etapa estadual. Por fim: <strong>Sou apenas um calouro na programação</strong> que busca novos conhecimentos e está disposto a aprender 📚.
