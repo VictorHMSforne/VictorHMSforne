@@ -79,7 +79,7 @@
 
 ## 📌 Projeto
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorHMSforne&repo=TccCapinha-Senai&theme=transparent&bg_color=&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorHMSforne&repo=TccCapinha-Senai&theme=transparent&bg_color=&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/VictorHMSforne/TccCapinha-Senai)
 
 
 
