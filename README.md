@@ -5,7 +5,7 @@
 
 <p align="justify">
     Recentemente me formei como Técnico em Desenvolvimento de Sistemas pelo SENAI 🥽. <br/>
-  No momento estou participando de uma competição chamada: <strong>WorldSkills</strong> e estou na etapa estadual. Por fim: <strong>Sou apenas um calouro na programação</strong> que busca novos conhecimentos e está disposto a aprender 📚.
+  Participei da  competição <strong>WorldSkills</strong> na etapa estadual, ficando em 🥈 na modalidade T.I Soluções de Software. Por fim: <strong>Sou apenas um calouro na programação</strong> que busca novos conhecimentos e está disposto a aprender 📚.
 </p>
 <br/>
 
