@@ -4,7 +4,7 @@
 </a>
 
 <p align="justify">
-    Recentemente me formei como Técnico em Desenvolvimento de Sistemas pelo SENAI 🥽. <br/>
+  Técnico em Desenvolvimento de Sistemas  🥽. <br/>
   Participei da  competição <strong>WorldSkills</strong> na etapa estadual, ficando em 🥈 na modalidade: <strong>T.I Soluções de Software</strong>. Por fim: <strong>Sou apenas um calouro na programação</strong> que busca novos conhecimentos e está disposto a aprender 📚.
 </p>
 <br/>
