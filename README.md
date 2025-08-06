@@ -77,7 +77,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHMSforne&theme=transparent&bg_color=&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VictorHMSforne&theme=transparent&layout=compact&bg_color=&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHMSforne&theme=transparent&layout=compact&bg_color=&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/VictorHMSforne/github-readme-stats)
 
 ## 📌 Projeto
 
